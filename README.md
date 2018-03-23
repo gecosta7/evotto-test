@@ -67,3 +67,5 @@ Prepare-se para alguns edge cases, por exemplo: O que acontece se não encontrar
 
 - Faça um fork ou clone desse projeto no seu próprio repositório e faça o trabalho
 - Quando terminar, envie o link do repositório para gustavo@evotto.com.br com quaisquer outras informações necessárias
+
+
